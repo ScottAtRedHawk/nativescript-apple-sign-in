@@ -10,6 +10,11 @@ import {
 import jsArrayToNSArray = iOSUtils.collections.jsArrayToNSArray;
 import nsArrayToJSArray = iOSUtils.collections.nsArrayToJSArray;
 
+/**
+ * CRISTIAN AVALOS BUILD :)
+ */
+
+
 let controller: any /* ASAuthorizationController */;
 let delegate: ASAuthorizationControllerDelegateImpl;
 
